@@ -1,4 +1,8 @@
+<div align="center">
+    
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Developer%20Shin%20Jihan.&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=130&theme=dark)
+
+</div>
 
 <h2 align="center">📞 Contact </h2>
 <div style="display:flex; flex-direction:row;" align="center">
@@ -43,6 +47,7 @@
     <img src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=slack&logoColor=white"/>
 </div></br>
 
+<h2 align="center">📊 Stats </h2>
 <div align=center> 
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deliciousqoo&layout=compact)
@@ -55,5 +60,9 @@
 
 </div>
 
+<div align=center>
+    
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=deliciousqoo)](https://solved.ac/deliciousqoo)
 
+</div>
 
