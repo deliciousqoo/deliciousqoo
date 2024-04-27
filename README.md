@@ -50,7 +50,6 @@
 <div align=center> 
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deliciousqoo&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deliciousqoo&show_icons=true&theme=default)</br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=deliciousqoo)](https://solved.ac/deliciousqoo)
 
 
