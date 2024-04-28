@@ -30,7 +30,8 @@
 <div style="display:flex; flex-direction:row;" align="center">
     <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
     <img src ="https://img.shields.io/badge/Java-FF7900.svg?&style=flat-square"/>
-    <img src ="https://img.shields.io/badge/Anroid Studio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=white"/></br>
+    <img src ="https://img.shields.io/badge/Anroid Studio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=kotlin&logoColor=white"/></br>
     <img src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat-square&logo=amazonaws&logoColor=white"/>
     <img src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>
     <img src ="https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=flask&logoColor=white"/>
